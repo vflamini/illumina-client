@@ -10,7 +10,7 @@ function App() {
         
       </header>
       <FileUpload 
-        label="Upload folder containing raw illumina data"
+        label="Upload Folder Containing Raw Illumina Data"
         endpoint="sendIllumina"
       />
     </div>
